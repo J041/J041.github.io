@@ -1,7 +1,7 @@
 ---
-title = 'sshd Flareon 11 (Level 5) writeup'
-date = 2024-12-21T22:20:12-05:00
-draft = false
+title: "sshd Flareon 11 (Level 5) writeup"
+date: 2024-12-21T22:20:12-05:00
+draft: false
 ---
 
 ![flareon11_sshd_chal](/images/sshd-flareon11/flareon11_sshd_chal.png)
